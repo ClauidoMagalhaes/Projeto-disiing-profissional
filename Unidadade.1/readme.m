@@ -1,1 +1,1 @@
-
+Unidade 1 — Design Profissional. Introdução. Nesta unidade, serão apresentados os conceitos iniciais de Design Profissional e sua importância no desenvolvimento de projetos. Objetivo. Compreender os princípios básicos do Design Profissional e sua aplicação na área de Análise de Sistemas. Conteúdo. Conceitos básicos de design, importância do design em projetos, organização e apresentação das informações, experiência do usuário. Conclusão. O Design Profissional contribui para a criação de projetos mais organizados, funcionais e fáceis de utilizar
